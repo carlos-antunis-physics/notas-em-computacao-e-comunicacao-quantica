@@ -12,3 +12,11 @@
 ![under construction image](./under-construction.png)
 
 </div>
+
+##  Referências bibliográficas
+
+[1] *Bouwmeester, Dirk*, e *Anton Zeilinger*. **The physics of quantum information: basic concepts**.
+
+[2] *Nielsen, Michael A.*, e *Isaac L. Chuang*. **Quantum computation and quantum information**.
+
+[3] *Maziero, Jonas*. [**Computação quântica em qiskit - SBF 2024**](https://github.com/jonasmaziero/computacao_quantica_qiskit_sbf_2024).
