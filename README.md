@@ -10,7 +10,7 @@
 
 **Notas de aula** da disciplina eletiva de **Comunicação Quântica** do **Programa de Pós-Graduação em Física da Matéria Condensada**, ministrada em 2024 pelo Professor Dr. Eduardo Jorge.
 
->   ##  [**Fundamentos de computação quântica**](1.fundamentos/README.md)
+>   ##  [**1. Fundamentos de computação quântica**](1.fundamentos/README.md)
 >
 >   A computação quântica consiste num paradigma recente e em ainda em desenvolvimento de computação que permite teoricamente ganhos notáveis de performance na resolução de problemas que de outras maneiras apresentariam grandes custos computacionais. Neste capítulo, iremos abordar as bases que fundamentam a computação quântica como a ideia de *`quantum bit`*, ou *`qubit`* , ademais às operações que um computador quântico é capaz de computar sobre tais.
 
