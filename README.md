@@ -27,4 +27,6 @@
 
 [2] *Nielsen, Michael A.*, e *Isaac L. Chuang*. **Quantum computation and quantum information**.
 
-[3] *Maziero, Jonas*. [**Computação quântica em qiskit - SBF 2024**](https://github.com/jonasmaziero/computacao_quantica_qiskit_sbf_2024).
+[3] *Cohen-Tannoudji, Claude, Bernard Diu, and Frank Laloe.* **Quantum mechanics, volume I.**
+
+[4] *Maziero, Jonas*. [**Computação quântica em qiskit - SBF 2024**](https://github.com/jonasmaziero/computacao_quantica_qiskit_sbf_2024).

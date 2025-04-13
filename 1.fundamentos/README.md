@@ -13,24 +13,29 @@ A computação quântica consiste num paradigma recente e em ainda em desenvolvi
 </div>
 
 <!--
->   ##  [1.2.Algoritmo de Deutsch-Jozsa](2.deutsch-jozsa.ipynb)
+>   ##  [1.2. Algoritmo de Deutsch-Jozsa](2.deutsch-jozsa.ipynb)
 
->   ##  [1.3.Algoritmo quântico de busca de Groover](3.groover.ipynb)
+>   ##  [1.3. Algoritmo de Groover](3.groover.ipynb)
 
->   ##  [1.4.Algoritmo de Bernstein-Vazirani](4.bernstein-vazirani.ipynb)
+>   ##  [1.4. Algoritmo de Bernstein-Vazirani](4.bernstein-vazirani.ipynb)
 
->   ##  [1.4.Algoritmo de Simon](4.simon.ipynb)
+>   ##  [1.4. Algoritmo de Simon](4.simon.ipynb)
 
->   ##  [1.5.Algoritmo da transformada de Fourier quântica](5.qft.ipynb)
+>   ##  [1.5. Transformada de Fourier quântica](5.qft.ipynb)
 
->   ##  [1.6.Algoritmo de Shor](6.shor.ipynb)
+>   ##  [1.6. Algoritmo de Shor](6.shor.ipynb)
+-->
 
 ##  Apêndices
->   ### [A. Fundamentos matemáticos para a mecânica quântica](./A.fundamentos-matematicos-para-a-mecanica-quantica.ipynb)
 
->   ### [B. Aspectos fundamentais da mecânica quântica](./B.aspectos-fundamentais-da-mecanica-quantica.ipynb)
+>   ### [A. Aspectos fundamentais da mecânica quântica](./A.aspectos-fundamentais-da-mecanica-quantica.ipynb)
+>
+>   Neste apêndice iremos abordar os fundamentos da teoria quântica, introduzindo os seus postulados que permitem compreender o comportamento de medidas no regime quântico da natureza, ademais à forma com que estes evoluem como avançar do tempo. Por fim, iremos introduzir o operador densidade, que permite descrever a estatística de um sistema físico, contabilizando efeitos quânticos ou clássicos (advindos da experimentação).
 
->   ### [C. Formalismo do operador densidade](./C.formalismo-do-operador-densidade.ipynb)
+<!--
+>   ### [B. Aspectos fundamentais da teoria de computação](./B.aspectos-fundamentos-da-teoria-de-computacao.ipynb)
+>
+>   Neste apêndice introduziremos os fundamentos da teoria de computação e complexidade. Abordaremos primeiramente os principais modelos formais utilizados na descrição de processos computacionais e, por fim, discutiremos a noção de complexidade computacional de tais processos.
 -->
 
 ---
