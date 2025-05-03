@@ -28,15 +28,15 @@ Apresentaremos aqui alguns algoritmos quânticos elementares que demonstram, com
 >
 >   O algoritmo de Bernstein-Vazirani é também um importante exemplo de algoritmo quântico. Este algoritmo é utilizado para determinar uma string oculta de uma função linear sendo necessária apenas uma consulta ao oráculo, diferentemente do método clássico que exigiria múltiplas consultas.
 
->   ### [1.4. Algoritmo de Simon](4.algoritmo-de-bernstein-vazirani.ipynb)
+>   ### [1.5. Algoritmo de Simon](5.algoritmo-de-simon.ipynb)
 >
 >   O algoritmo de Simon é um importante algoritmo quântico, por ser um dos primeiros a demonstrar vantagem exponencial sobre os métodos clássicos. Este é projetado para encontrar uma string oculta dada uma função $f$ que satisfaz a condição $f(x) = f(x \oplus s)$ - onde $\oplus$ denota a soma `bit`a `bit` (`xor`).
 
->   ### [1.5. Algoritmo da transformada de Fourier quântica](5.algoritmo-de-simon.ipynb)
+>   ### [1.6. Algoritmo da transformada de Fourier quântica](6.algoritmo-da-transformada-de-fourier-quantica.ipynb)
 >
 >   O algoritmo da transformada de Fourier quântica (`QFT`) é uma versão quântica da transformada de Fourier discreta (`DFT`). Sendo uma importante ferramenta para alguns algoritmos quânticos (tal qual o algoritmo de Shor).
 
->   ### [1.6. Algoritmo de Shor](6.algoritmo-da-transformada-de-fourier-quantica.ipynb)
+>   ### [1.7. Algoritmo de Shor](7.algoritmo-de-shor.ipynb)
 >
 >   O mais proeminente dos primeiros algoritmos quânticos, o algoritmo de Shor é o cerne do impacto da computação quântica no futuro onde computadores quânticos serão acessíveis. Tal algoritmo é concebido com a finalidade de fatorar números em fatores primos, sendo capaz de resolver tal problema em tempo polinomial, um ganho exponencial em relação ao seu análogo clássico. Sua relevância se dá pois apresenta uma ameaça gritante à segurança criptográfica de sistemas baseados na criptografia RSA, que se fundamenta na dificuldade de fatorar números grandes.
 
