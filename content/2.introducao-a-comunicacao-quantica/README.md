@@ -18,6 +18,10 @@ Dado aos ganhos notáveis em performance promovidos pela computação quântica,
 >
 >   Neste apêndice abordaremos a criptografia RSA que consiste num dos protocolos criptográficos mais utilizados atualmente na troca segura de informações, baseando-se na dificuldade de fatorar números grandes em fatores primos, sendo considerável intratável para computadores clássicos. Dado que algoritmos quânticos, como o algoritmo de Shor, podem tornar tal método criptográfico vulnerável abordaremos também quão vulnerável tal método será.
 
+>   ### [B. Formalismo do operador densidade](./apendices/B.formalismo-do-operador-densidade.ipynb)
+>
+>   Neste apêndice iremos explorar o formalismo do operador densidade, a qual permite uma descrição mais robusta de sistemas quânticos. Distintamente à representação tradicional por intermédio de vetores de estado, o operador densidade nos permite lidar com probabilidades advindas de imprecisões experimentais e descrever a experimentação macroscópica com mais rigor.
+
 ---
 
 <div align="right">
