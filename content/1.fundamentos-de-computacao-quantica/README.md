@@ -44,7 +44,7 @@ Apresentaremos aqui alguns algoritmos quânticos elementares que demonstram, com
 
 >   ### [A. Aspectos fundamentais da mecânica quântica](./apendices/A.aspectos-fundamentais-da-teoria-quantica.ipynb)
 >
->   Neste apêndice iremos abordar os fundamentos da teoria quântica, introduzindo os seus postulados que permitem compreender o comportamento de medidas no regime quântico da natureza, ademais à forma com que estes evoluem como avançar do tempo. Por fim, iremos introduzir o operador densidade, que permite descrever a estatística de um sistema físico, contabilizando efeitos quânticos ou clássicos (advindos da experimentação).
+>   Neste apêndice iremos abordar os fundamentos da teoria quântica, introduzindo os seus postulados que permitem compreender o comportamento de medidas no regime quântico da natureza, ademais à forma com que estes evoluem como avançar do tempo.
 
 >   ### [B. Aspectos fundamentais de computação](./apendices/B.aspectos-fundamentais-de-computacao.ipynb)
 >
