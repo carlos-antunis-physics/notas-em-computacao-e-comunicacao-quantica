@@ -48,7 +48,7 @@ Apresentaremos aqui alguns algoritmos quânticos elementares que demonstram, com
 
 >   ### [B. Aspectos fundamentais de computação](./apendices/B.aspectos-fundamentais-de-computacao.ipynb)
 >
->   Neste apêndice introduziremos os fundamentos da teoria de computação e complexidade, desde seus modelos formais - tais como autômatos elementares e máquinas de Turing - a complexidade da implementação de algoritmos e por fim iremos apresentar alguns dos mais importantes algoritmos da computação clássica.
+>   Neste apêndice introduziremos os fundamentos da teoria de computação e complexidade, desde seus modelos formais - tais como autômatos elementares e máquinas de Turing - à complexidade da implementação de algoritmos e por fim iremos apresentar alguns dos mais importantes algoritmos da computação clássica.
 
 ---
 
