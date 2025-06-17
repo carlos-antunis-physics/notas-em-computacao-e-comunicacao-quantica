@@ -25,11 +25,11 @@
 </div>
 
 
->   ####    [**1. Fundamentos de computação quântica**](content/1.fundamentos-de-computacao-quantica/README.md)
+>   ####    [**1. Fundamentos de computação quântica**](notebooks/1.fundamentos-de-computacao-quantica/README.md)
 >
 >   Como um paradigma emergente, e ainda em desenvolvimento, a computação quântica oferece ganhos notáveis de performance na resolução de alguns problemas que sob os paradigmas convencionais demandariam grandes custos computacionais. Neste capítulo iremos fundamentar tal novo paradigma de computação, abordando desde modelos de computação à implementações físicas elementares - com enfoque principal em hardwares fotônicos.
 
->   ####    [**2. Introdução aos algoritmos quânticos**](content/2.introducao-aos-algoritmos-quanticos/README.md)
+>   ####    [**2. Introdução aos algoritmos quânticos**](notebooks/2.introducao-aos-algoritmos-quanticos/README.md)
 >
 >   Apresentadas as bases do paradigma quântico de computação, iremos aprofundar neste capítulo as aplicações e desenvolvimentos deste. Abordaremos aqui a conceituação de algoritmos quânticos bem como seu impacto para métodos criptográficos clássicos.
 
