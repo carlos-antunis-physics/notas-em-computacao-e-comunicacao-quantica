@@ -17,7 +17,7 @@ Este repositório reune notas de aula da disciplina eletiva de **Comunicação Q
 
 <div align="center">
 
-![under construction image](./under-construction.png)
+[![under construction image](https://github.com/carlos-antunis-physics/carlos-antunis-physics/blob/main/assets/under-construction.png?raw=true)](#---)
 
 </div>
 
