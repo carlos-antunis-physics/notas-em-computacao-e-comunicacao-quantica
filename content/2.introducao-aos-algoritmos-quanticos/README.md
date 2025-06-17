@@ -1,4 +1,4 @@
-#   Fundamentos de computação quântica
+#   Introdução aos algoritmos quânticos
 
 
 <div align="center">
