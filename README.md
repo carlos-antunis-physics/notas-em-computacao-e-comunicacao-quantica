@@ -1,9 +1,5 @@
 <div align="center">
 
-[
-    <img src="https://raw.githubusercontent.com/carlos-antunis-physics/carlos-antunis-physics/refs/heads/main/assets/UFAL.png" width="150"></img>
-](#---)
-
 ##      Fundamentos de Computação Quântica
 
 [Carlos Antunis Bonfim da Silva Santos](https://github.com/carlos-antunis-physics)
