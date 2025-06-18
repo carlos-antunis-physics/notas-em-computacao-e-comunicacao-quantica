@@ -12,9 +12,7 @@
 
 </div>
 
->   O presente repositório reune anotações minhas sobre **Computação e Comunicação quântica**, principalmente baseadas na disciplina eletiva **Comunicação quântica** ministrada em 2025 pelo Professor Dr. Eduardo Jorge.
->
->   Este repositório possui apenas finalidade educacional e foi construído sob a [Licença MIT](./LICENSE).
+O presente repositório reune anotações minhas sobre **Computação e Comunicação quântica**, principalmente baseadas na disciplina eletiva **Comunicação quântica** ministrada em 2025 pelo Professor Dr. Eduardo Jorge.
 
 <div align="center">
 
