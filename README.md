@@ -1,6 +1,6 @@
 <div align="center">
 
-##      Fundamentos de Computação e comunicação quântica
+##      Fundamentos de computação e comunicação quântica
 
 [Carlos Antunis Bonfim da Silva Santos](https://github.com/carlos-antunis-physics)
 
