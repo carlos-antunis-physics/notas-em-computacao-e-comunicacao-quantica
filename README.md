@@ -39,15 +39,13 @@
 >
 >   Neste capítulo abordaremos o mais célebre dos algoritmos quânticos, o algoritmo de quântico de fatoração proposto por Peter Shor. Abordaremos primeiramente a construção do algoritmo e exemplos de sua aplicação, ademais posteriormente iremos discutir o seu ganho exponencial de desempenho e suas implicações para a criptografia moderna.
 
->   ####    [**V. Fundamentos de criptografia quântica e pós-quântica**](notebooks/V.fundamentals-of-quantum-and-posquantum-cryptography.ipynb)
+>   ####    [**V. Correção quântica de erro**](notebooks/V.quantum-error-correction.ipynb)
+>
+>   Neste capítulo abordaremos as fontes de erros em algoritmos quânticos e os seus respectivos algoritmos de correção de erro. Primeiramente iremos apresentar os erros comuns de bit-flip, aprofundando aos erros de phase-flip, findando por apresentar o algoritmo de Shor para correção quântica de erros.
+
+>   ####    [**VI. Fundamentos de criptografia quântica e pós-quântica**](notebooks/VI.fundamentals-of-quantum-and-posquantum-cryptography.ipynb)
 >
 >   Neste capítulo abordaremos os impactos dos algoritmos quânticos nos métodos criptográficos. Abordaremos primeiramente os impactos sobre os algoritmos convencionais (Diffie-Hellman, RSA, ...), posteriormente apresentaremos o protocolo BB84 de distribuição quântica de chaves criptográficas, e por fim abordaremos os algoritmos pós-quânticos de criptografia.
-
-<div align="center">
-
-[![under construction image](https://raw.githubusercontent.com/carlos-antunis-physics/carlos-antunis-physics/refs/heads/main/assets/under-construction.png)](#---)
-
-</div>
 
 ##  Referências bibliográficas
 
