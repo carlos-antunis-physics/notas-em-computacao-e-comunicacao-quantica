@@ -27,13 +27,21 @@
 >   Neste capítulo iremos abordar os fundamentos de uma extensão da computação clássica convencional, o paradigma quântico de computação. Primeiramente iremos nos ater ao conceito clássico de computação, posteriormente extenderemos tal conceito com a inserção das propriedades ondulatórias dos qubits.
 
 
-<!-- >   ####    [**1. Fundamentos de computação quântica**](jupyter/1.fundamentos-de-computacao-quantica/README.md)
+>   ####    [**II. Implementações físicas de portas lógicas quânticas**](notebooks/II.quantum-logic-gates-physical-implementations.ipynb)
 >
->   Como um paradigma emergente, e ainda em desenvolvimento, a computação quântica oferece ganhos notáveis de performance na resolução de alguns problemas que sob os paradigmas convencionais demandariam grandes custos computacionais. Neste capítulo iremos fundamentar tal novo paradigma de computação, abordando desde modelos de computação à implementações físicas elementares - com enfoque principal em hardwares fotônicos.
+>   Neste capítulo iremos abordar a implementação física da hardwares quânticos, com enfoque único em dispositivos fotônicos, de computação. Abordaremos a implementação de qubits encodados por caminho e polarização, ademais à implementações e métodos de caracterização de portas lógicas por dispositivos microfabricados.
 
->   ####    [**2. Introdução aos algoritmos quânticos**](jupyter/2.introducao-aos-algoritmos-quanticos/README.md)
+>   ####    [**III. Introdução aos algoritmos quânticos**](notebooks/III.introduction-to-quantum-algorithms.ipynb)
 >
->   Apresentadas as bases do paradigma quântico de computação, iremos aprofundar neste capítulo as aplicações e desenvolvimentos deste. Abordaremos aqui a conceituação de algoritmos quânticos bem como seu impacto para métodos criptográficos clássicos. -->
+>   Neste capítulo iremos apresentar os primórdios de algoritmos quânticos e seus respectivos ganhos de desempenho em comparação aos seus análogos clássicos. Primeiramente apresentaremos algoritmos simples (Deutsch-Josza, Bernstein-Vazirani e Simon), por fim abordando o aclamado algoritmo quântico de busca proposto por Lev Groover.
+
+>   ####    [**IV. Algoritmo de Shor**](notebooks/IV.shor-algorithm.ipynb)
+>
+>   Neste capítulo abordaremos o mais célebre dos algoritmos quânticos, o algoritmo de quântico de fatoração proposto por Peter Shor. Abordaremos primeiramente a construção do algoritmo e exemplos de sua aplicação, ademais posteriormente iremos discutir o seu ganho exponencial de desempenho e suas implicações para a criptografia moderna.
+
+>   ####    [**V. Fundamentos de criptografia quântica e pós-quântica**](notebooks/V.fundamentals-of-quantum-and-posquantum-cryptography.ipynb)
+>
+>   Neste capítulo abordaremos os impactos dos algoritmos quânticos nos métodos criptográficos. Abordaremos primeiramente os impactos sobre os algoritmos convencionais (Diffie-Hellman, RSA, ...), posteriormente apresentaremos o protocolo BB84 de distribuição quântica de chaves criptográficas, e por fim abordaremos os algoritmos pós-quânticos de criptografia.
 
 <div align="center">
 
